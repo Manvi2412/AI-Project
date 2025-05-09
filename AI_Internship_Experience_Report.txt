@@ -1,0 +1,30 @@
+
+Experience Report
+
+Challenges Faced
+This was my first hands-on project implementing an object detection model from scratch. 
+One of the major challenges was understanding how SSD works internally, especially how bounding boxes are predicted using a CNN backbone. 
+Additionally, dealing with image tensors, shapes, and converting predictions into usable visual outputs required careful debugging.
+
+Use of AI Tools
+I used ChatGPT extensively for guidance, code generation, and debugging. 
+I asked for help on model architecture, bounding box visualization, and handling class predictions. 
+While the code was AI-assisted, I focused on understanding each component, modifying it for my needs, and making sure it worked in practice.
+
+What I Learned
+I learned how to combine a CNN backbone (ResNet) with a custom detection head (SSD-style). 
+I also understood the importance of data formatting, training loops, and visual outputs. 
+Most importantly, I gained confidence in applying AI tools to accelerate development while still staying in control of the learning process.
+
+What Surprised Me
+I was surprised by how many steps are involved beyond just training the model — including preprocessing, debugging, 
+interpreting model outputs, and ensuring a polished visual result.
+
+Thoughts on AI Collaboration
+Using AI tools was a game-changer. It helped me save time, learn faster, and debug more effectively. 
+That said, I had to carefully verify and understand the code being generated. 
+The collaboration worked best when I treated the AI like a tutor — asking precise questions and building iteratively.
+
+Suggestions for Improvement
+The assignment could provide a bit more clarity on the expected format of evaluation metrics or recommend which dataset to use for better training.
+But overall, it was a great experience that taught me a lot about deep learning and object detection workflows.
